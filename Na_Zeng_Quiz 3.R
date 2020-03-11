@@ -18,6 +18,7 @@
 # and result from the console window)
 # (hint:  use the nrow() and ncol() and/or the dim()  R functions )
 ##################
+library(tidyverse)
 View(mpg)
 nrow(mpg)
 ncol(mpg) 
